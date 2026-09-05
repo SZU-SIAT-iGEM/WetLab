@@ -1,0 +1,264 @@
+# CMC培养基配置 Protocol
+
+## 一、实验目的
+
+配制均一、无明显结块且适用于CMC降解能力筛选的CMC固体培养基。
+
+## 二、配方（100 mL）
+
+| 成分 | 用量 | 说明 |
+| --- | ---: | --- |
+| CMC预混培养基粉 | 2.70 g | 其中含CMC-Na 2.00 g，并含磷酸盐、蛋白胨和酵母提取物等成分 |
+| 琼脂粉 | 2.00 g | 终浓度为2.0%（w/v），用于形成固体培养基 |
+| 纯水或去离子水 | 100 mL | 用量筒量取 |
+
+预混培养基粉的具体组成以产品说明书为准。说明书对应的终配方为：CMC-Na 20.0 g/L、Na2HPO4 2.5 g/L、KH2PO4 1.5 g/L、Peptone 2.5 g/L、Yeast Extract 0.5 g/L，另加琼脂20.0 g/L，pH通常为7.0-7.2。若使用的产品说明书另有规定，应以该说明书为准。
+
+## 三、CMC-Na物性及配制逻辑
+
+CMC-Na（羧甲基纤维素钠，CAS 9004-32-4）为纤维素衍生的高分子材料，通常呈白色至浅色吸湿性粉末。它遇水后会逐渐水合、溶胀并形成黏稠的胶体溶液；因此与普通小分子培养基成分相比，CMC-Na的水合和均匀分散更慢，局部浓度过高时容易在粉末外层形成胶状包裹，进一步阻碍内部溶解，表现为难以分散的胶状结块。
+
+因此，本 protocol 不采用将全部干粉一次性倒入冷水的方式，而是先将水预热并持续搅拌，先加入琼脂，再将CMC预混培养基粉缓慢、分多次加入；后续通过较高温度和较高搅拌速度破坏团块并促进完全溶解。这里的“难溶”主要指难以快速、均匀水合，并不表示CMC-Na在水中完全不溶。
+
+## 四、实验仪器
+
+- 电子天平，感量至少0.01 g
+- 量筒（100 mL或适用规格）
+- 微波炉
+- 磁力搅拌器及温度探头
+- 锥形瓶，建议容量至少250 mL
+- 高压蒸汽灭菌锅
+- 超净工作台或生物安全柜
+- 温度计（如磁力搅拌器无可靠温度探头）
+- 培养箱
+
+## 五、实验耗材
+
+- CMC预混培养基粉
+- 琼脂粉
+- 纯水或去离子水
+- 搅拌子
+- 玻璃棒
+- 防尘膜或耐高温透气封口膜
+- 无菌培养皿，建议使用7 cm培养皿
+- 移液枪及无菌枪头（用于加入抗生素）
+- 相应抗生素储备液
+- 标签、记号笔和耐高温手套
+
+## 六、操作步骤
+
+### 1. 预热水和建立搅拌
+
+1. 用量筒量取100 mL纯水，倒入锥形瓶。
+2. 将锥形瓶放入微波炉，加热至约60-70 °C。加热后取出时使用耐高温手套，防止烫伤。
+3. 将搅拌子放入锥形瓶，置于磁力搅拌器上。
+4. 设置搅拌速度约220 rpm，并将加热温度控制在70 °C左右，使水体保持均匀温热和持续流动。
+
+### 2. 现称现用并加入琼脂和CMC预混培养基粉
+
+1. 在准备向锥形瓶中加粉前，电子天平称取CMC预混培养基粉2.70 g和琼脂粉2.00 g。CMC预混培养基粉容易吸收空气中的水分，称量过早可能出现胶状粘连称量纸、结团和转移损失，因此应尽量现称现用。
+2. 在持续搅拌状态下，先将称好的2.00 g琼脂粉缓慢加入锥形瓶，使其先在热水中分散。
+3. 琼脂加入后，再将2.70 g CMC预混培养基粉缓慢、分多次加入。每次加入少量粉末，待前一批基本被液体带走并分散后再加入下一批。
+4. 加粉时应沿液面分散撒入，避免将粉末集中倒在同一点，也不要一次性倾倒全部粉末。CMC遇水后会快速水合，集中加粉容易在外层形成胶状包裹，产生难以溶解的硬团块。
+5. 加粉过程中如液面出现黏稠团块，应暂停加粉，保持搅拌使其充分吸水分散。
+
+### 3. 高温搅拌溶解
+
+1. 全部粉末加入后，将搅拌速度调至约400 rpm，温度提高至80-90 °C。
+2. 持续搅拌30-40 min，并观察培养基状态。
+3. 若出现顽固结块，可暂时停止磁力搅拌，用玻璃棒轻轻将结块捣碎，再恢复搅拌。操作时避免玻璃棒剧烈碰撞锥形瓶底部或造成液体飞溅。
+4. 以培养基完全均匀、无肉眼可见胶状团块、无明显未溶粉末和底部沉淀为溶解终点。若仍有团块，应延长加热搅拌时间，不应直接进入灭菌步骤。
+5. 完全溶解后，降低搅拌速度并短暂搅拌，使液体均一、泡沫减少。必要时补加少量无菌纯水至接近100 mL，并记录实际补液量；不要在灭菌后再用未灭菌水补液。
+
+### 4. 灭菌前封装
+
+1. 将锥形瓶从磁力搅拌器上取下，检查瓶口和瓶身外壁是否有培养基残留。
+2. 瓶口覆盖防尘膜或耐高温透气封口材料。封口必须透气，不能将锥形瓶完全密封。
+3. 在容器外标记培养基名称、配制体积、配制日期和是否含抗生素。抗生素不在此时加入。
+
+### 5. 高压蒸汽灭菌
+
+1. 将锥形瓶放入高压蒸汽灭菌锅，按实验室设备要求操作。
+2. 达到121 °C后灭菌20 min；若产品说明书或实验室验证程序规定了不同参数，应以其验证参数为准。
+3. 灭菌结束后，待压力完全归零再开盖。取出时佩戴耐高温手套，避免直接接触瓶身、瓶盖和高温培养基。
+
+### 6. 冷却、加入抗生素和倒平板
+
+1. 灭菌后将培养基放置或置于约50-60 °C的水浴中缓慢冷却，期间轻轻摇匀，避免沉降和局部凝固。
+2. 待培养基温度降至50-60 °C后，在超净工作台内加入相应的无菌抗生素储备液。抗生素加入体积应根据储备液浓度计算，使终浓度符合实验设计；加入后轻轻旋转或缓慢摇匀，避免产生大量气泡。
+3. 采用无菌培养皿倒板。7 cm培养皿每皿建议加入10-12 mL，使各平板琼脂厚度尽量一致；同一批实验必须保持每皿灌注体积一致。
+4. 倾注后立即盖好皿盖，静置至培养基完全凝固。若平板表面水汽较多，可在超净工作台内短时间开盖或半开盖晾干，但应避免过度干燥和环境污染。
+5. 平板完全凝固后倒置、密封并标记。当天使用时可直接使用；暂不使用的平板建议倒置、避光并于4 °C保存，具体保存期限应根据实验室验证结果确定。
+
+## 七、培养基使用前的复溶
+
+CMC培养基含有琼脂，低温保存后会重新凝固。使用前应采用微波炉分次加热复溶：
+
+1. 检查容器是否适用于微波加热，确认瓶口没有密封。若使用带盖容器，盖子必须松开或移除，以避免压力积聚。
+2. 每次短时间加热后取出，用耐高温手套轻轻摇晃或旋转混匀，再继续加热。
+3. 加热过程中密切观察液体状态，防止局部过热、突沸和培养基溢出。不要一次性长时间加热，也不要将完全密封的容器放入微波炉。
+4. 待培养基完全融化为均一液态后，继续冷却至50-60 °C；若需要加抗生素，只能在此温度范围内无菌加入。
+5. 加入抗生素后轻轻混匀，按实验要求倒平板。反复熔化和冷却会增加培养基降解、蒸发浓缩和污染风险，应尽量按一次实验所需体积分装或现用现融。
+
+## 八、质量控制与判断标准
+
+合格的CMC培养基应满足以下条件：
+
+- 灭菌前培养基已基本完全溶解，无明显胶状结块、未溶粉末和底部沉淀；
+- 倒板后平板颜色和厚度均一，表面无明显气泡、裂纹或污染；
+- 空白平板经培养后无菌落生长；
+- 使用于CMC-刚果红实验时，培养基能够形成均一的红色背景，并允许根据菌落周围的褪色区域判断CMC水解情况。
+
+若培养基仍有明显团块，不建议直接用于透明圈比较，因为局部CMC浓度不均会影响刚果红结合、背景颜色和水解圈边界。
+
+## 九、关键注意事项
+
+1. CMC粉末和预混粉必须少量多次加入，不能一次性倒入热水。
+2. 搅拌器显示温度是液体的近似温度，必要时用独立温度计确认；加热时避免液体沸腾。
+3. 微波复溶时容器绝不能密封，必须分次加热、间隔摇匀，防止爆沸和溢出。
+4. 高压灭菌前不加入抗生素；抗生素通常在培养基冷却至50-60 °C后无菌加入，具体以抗生素热稳定性和实验方案为准。
+5. 处理高温培养基时佩戴实验服、防护手套和护目镜，取放锥形瓶时注意瓶口方向，避免沸腾液体突然喷溅。
+6. 预混培养基粉的实际配方可能因厂家和批次不同而变化，配制前应核对当前产品说明书。
+
+## 十、实验预期结果
+
+获得无明显结块、无肉眼可见沉淀、颜色和厚度均一的CMC固体培养基，灭菌后可在50-60 °C加入抗生素并顺利倒制成平整、均一的CMC平板。
+
+## 参考资料
+
+1. CMC培养基产品说明书：100 mL配制量按预混培养基粉2.70 g、琼脂粉2.00 g执行。
+2. PubChem，Sodium carboxymethyl cellulose，CID 6328154：https://pubchem.ncbi.nlm.nih.gov/compound/6328154。页面记录其为吸湿性粉末，遇水可形成黏稠胶体溶液。
+
+---
+
+# CMC Medium Preparation Protocol
+
+## 1. Experimental Objective
+
+To prepare a homogeneous CMC solid medium without visible clumps for screening CMC-degrading activity.
+
+## 2. Formula (100 mL)
+
+| Component | Amount | Notes |
+| --- | ---: | --- |
+| CMC premixed medium powder | 2.70 g | Contains 2.00 g CMC-Na, together with phosphate salts, peptone and yeast extract |
+| Agar powder | 2.00 g | Final concentration: 2.0% (w/v), used to solidify the medium |
+| Purified or deionized water | 100 mL | Measure with a graduated cylinder |
+
+The exact composition of the premixed medium powder should be verified against the product instructions. The corresponding formulation in the instructions is CMC-Na 20.0 g/L, Na2HPO4 2.5 g/L, KH2PO4 1.5 g/L, peptone 2.5 g/L and yeast extract 0.5 g/L, with an additional 20.0 g/L agar. The usual pH is 7.0-7.2. If the current product instructions specify different conditions, follow the current instructions.
+
+## 3. Physical Properties of CMC-Na and Preparation Rationale
+
+CMC-Na (sodium carboxymethyl cellulose, CAS 9004-32-4) is a cellulose-derived polymer, usually supplied as a white to light-colored hygroscopic powder. When exposed to water, it gradually hydrates, swells and forms a viscous colloidal solution. Compared with ordinary small-molecule medium components, CMC-Na hydrates and disperses more slowly. When the local concentration is too high, a hydrated gel-like layer forms around the powder, preventing water from reaching the inside and producing difficult-to-disperse clumps.
+
+Therefore, this protocol does not add all dry powder to cold water at once. The water is first preheated and continuously stirred. Agar is added first, followed by the CMC premixed medium powder slowly in several portions. Higher temperature and stirring speed are then used to break up clumps and promote complete dissolution. In this context, “difficult to dissolve” means slow and non-uniform hydration and dispersion; it does not mean that CMC-Na is completely insoluble in water.
+
+## 4. Instruments
+
+- Analytical balance with a readability of at least 0.01 g
+- Graduated cylinder, 100 mL or suitable volume
+- Microwave oven
+- Magnetic stirrer with temperature probe
+- Erlenmeyer flask, preferably at least 250 mL
+- Autoclave
+- Laminar-flow cabinet or biological safety cabinet
+- Thermometer, if the magnetic stirrer does not provide reliable temperature monitoring
+- Incubator
+
+## 5. Consumables
+
+- CMC premixed medium powder
+- Agar powder
+- Purified or deionized water
+- Magnetic stir bar
+- Glass rod
+- Dust-proof film or autoclavable breathable sealing film
+- Sterile Petri dishes, preferably 7 cm dishes
+- Pipette and sterile tips for adding antibiotics
+- Appropriate antibiotic stock solution
+- Labels and marker
+- Heat-resistant gloves
+
+## 6. Procedure
+
+### 1. Preheat the Water and Establish Stirring
+
+1. Measure 100 mL purified water with a graduated cylinder and transfer it into the Erlenmeyer flask.
+2. Heat the flask in a microwave oven to approximately 60-70 °C. Use heat-resistant gloves when removing it.
+3. Place a magnetic stir bar into the flask and position the flask on the magnetic stirrer.
+4. Set the stirring speed to approximately 220 rpm and maintain the heating temperature at about 70 °C so that the water remains uniformly warm and continuously moving.
+
+### 2. Weigh Immediately Before Use and Add the Agar and CMC Premixed Powder
+
+1. Immediately before adding the powders to the flask, weigh 2.70 g of CMC premixed medium powder and 2.00 g of agar powder. CMC premixed powder readily absorbs moisture from the air. Weighing it too early may cause gel-like adhesion to the weighing paper, clumping and transfer loss, so it should be weighed and used as soon as possible.
+2. While stirring continuously, slowly add the 2.00 g agar powder to the flask so that it disperses in the hot water first.
+3. After adding the agar, slowly add the 2.70 g CMC premixed medium powder in several portions. Add only a small amount at a time and wait until the previous portion has been carried into and dispersed by the liquid before adding the next portion.
+4. Sprinkle the powder across the liquid surface rather than concentrating it at one point. Do not pour all of the powder in at once. CMC hydrates rapidly upon contact with water, and concentrated addition can produce a gel-like outer layer and hard-to-dissolve clumps.
+5. If viscous clumps appear during addition, pause the addition and continue stirring to allow the material to absorb water and disperse.
+
+### 3. Dissolve with High-Temperature Stirring
+
+1. After all powder has been added, increase the stirring speed to approximately 400 rpm and raise the temperature to 80-90 °C.
+2. Stir continuously for 30-40 min while monitoring the medium.
+3. If persistent clumps remain, briefly stop magnetic stirring and gently break up the clumps with a glass rod, then resume stirring. Avoid striking the flask and avoid splashing the hot liquid.
+4. Consider dissolution complete when the medium is homogeneous, with no visible gel-like clumps, undissolved powder or obvious sediment at the bottom. If clumps remain, extend the heating and stirring time rather than proceeding directly to sterilization.
+5. After complete dissolution, reduce the stirring speed and mix briefly to make the liquid uniform and reduce foaming. If necessary, add a small amount of sterile purified water to bring the volume close to 100 mL and record the actual amount added. Do not add non-sterile water after sterilization.
+
+### 4. Prepare for Sterilization
+
+1. Remove the flask from the magnetic stirrer and check that no medium remains on the flask neck or outer wall.
+2. Cover the flask opening with dust-proof film or an autoclavable breathable sealing material. The closure must remain breathable; do not seal the flask completely.
+3. Label the flask with the medium name, preparation volume, preparation date and antibiotic status. Do not add antibiotics at this stage.
+
+### 5. Autoclaving
+
+1. Place the flask in the autoclave and operate the instrument according to the laboratory procedure.
+2. Autoclave at 121 °C for 20 min after the temperature reaches 121 °C. If the product instructions or a validated laboratory procedure specifies different parameters, follow those parameters.
+3. Do not open the autoclave until the pressure has returned completely to zero. Wear heat-resistant gloves when removing the flask and avoid direct contact with the hot flask, closure and medium.
+
+### 6. Cooling, Antibiotic Addition and Plate Pouring
+
+1. After autoclaving, allow the medium to cool slowly, or place it in a water bath at approximately 50-60 °C. Gently mix it during cooling to prevent settling and local solidification.
+2. When the medium reaches 50-60 °C, add the appropriate sterile antibiotic stock solution in a laminar-flow cabinet. Calculate the addition volume so that the final concentration matches the experimental design. Gently rotate or slowly mix the flask without generating excessive bubbles.
+3. Pour the medium into sterile Petri dishes. For 7 cm dishes, add approximately 10-12 mL per dish so that the agar thickness is as uniform as possible. Use the same volume for every dish within the same batch.
+4. Cover the dishes immediately and leave them undisturbed until the medium has completely solidified. If excessive surface moisture is present, briefly air-dry the plates in the cabinet with the lids open or partially open, avoiding over-drying and contamination.
+5. After complete solidification, invert, seal and label the plates. Plates may be used the same day. Unused plates should preferably be stored inverted, protected from light, at 4 °C. The storage period should be established by laboratory validation.
+
+## 7. Remelting Before Use
+
+CMC medium contains agar and solidifies again during cold storage. Remelt it in a microwave oven using short heating intervals:
+
+1. Confirm that the container is microwave-compatible and that the opening is not sealed. If a container with a lid is used, loosen or remove the lid to prevent pressure accumulation.
+2. After each short heating interval, remove the container using heat-resistant gloves and gently swirl or shake it before continuing to heat.
+3. Monitor the medium closely to prevent local overheating, bumping and overflow. Do not heat for a long period at once, and never place a completely sealed container in the microwave.
+4. After the medium has completely melted into a homogeneous liquid, cool it to 50-60 °C. If antibiotics are required, add them aseptically only within this temperature range.
+5. Mix gently after antibiotic addition and pour the plates according to the experimental design. Repeated melting and cooling increase the risk of medium degradation, evaporation-related concentration changes and contamination. Prepare or remelt only the volume needed for one experiment whenever possible.
+
+## 8. Quality Control and Acceptance Criteria
+
+The prepared CMC medium should meet the following criteria:
+
+- Before sterilization, the medium is essentially fully dissolved, without obvious gel-like clumps, undissolved powder or sediment;
+- After pouring, the plates have uniform color and thickness, with no obvious bubbles, cracks or contamination;
+- Uninoculated control plates show no colony growth after incubation;
+- For CMC-Congo red assays, the medium produces a uniform red background that allows CMC hydrolysis to be evaluated from pale zones around colonies.
+
+Do not use medium containing obvious clumps for transparent-zone comparisons, because non-uniform local CMC concentration can affect Congo red binding, background color and the boundary of the hydrolysis zone.
+
+## 9. Key Precautions
+
+1. Add CMC powder and premixed powder slowly in several portions. Never pour all of the powder into the water at once.
+2. The temperature displayed by the stirrer is an approximate liquid temperature. Confirm it with an independent thermometer when necessary, and avoid boiling during heating.
+3. During microwave remelting, the container must never be sealed. Use short heating intervals and mix between intervals to prevent bumping and overflow.
+4. Do not add antibiotics before autoclaving. Antibiotics are generally added aseptically after the medium cools to 50-60 °C; follow the thermal stability requirements of the specific antibiotic and the experimental design.
+5. Wear a lab coat, protective gloves and eye protection when handling hot medium. Keep the flask opening pointed away from the operator to reduce the risk of sudden splashing.
+6. The exact composition of premixed medium powder may vary between manufacturers and batches. Follow the instructions for the product currently in use.
+
+## 10. Expected Results
+
+A homogeneous CMC solid medium without obvious clumps or visible sediment should be obtained. After sterilization, antibiotics can be added at 50-60 °C, and the medium can be poured into smooth, uniform CMC plates.
+
+## References
+
+1. CMC medium product instructions: for 100 mL, use 2.70 g premixed medium powder and 2.00 g agar powder.
+2. PubChem, Sodium carboxymethyl cellulose, CID 6328154: https://pubchem.ncbi.nlm.nih.gov/compound/6328154. The page describes it as a hygroscopic powder that forms a viscous colloidal solution in water.
