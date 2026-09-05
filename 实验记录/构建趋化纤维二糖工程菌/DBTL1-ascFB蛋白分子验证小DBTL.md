@@ -303,6 +303,6 @@ AscB 的预测翻译起始速率约为 AscF 的 3.4 倍。
 
 Morabbi Heravi, K., & Altenbuchner, J. (2018). Cross talk among transporters of the phosphoenolpyruvate-dependent phosphotransferase system in *Bacillus subtilis*. *Journal of Bacteriology, 200*(19), e00213-18. https://doi.org/10.1128/JB.00213-18
 
-Parisutham, V., Jung, S.-K., Nam, D., & Lee, S. K. (2013). Transcriptome-driven synthetic re-modeling of *Escherichia coli* to enhance cellobiose utilization. *Chemical Engineering Science, 103*, 50–57. [Redirecting](https://doi.org/10.1016/j.ces.2012.08.006)
+Parisutham, V., Jung, S.-K., Nam, D., & Lee, S. K. (2013). Transcriptome-driven synthetic re-modeling of *Escherichia coli* to enhance cellobiose utilization. *Chemical Engineering Science, 103*, 50–57. https://doi.org/10.1016/j.ces.2012.08.006
 
 Parisutham, V., & Lee, S. K. (2015). Novel functions and regulation of cryptic cellobiose operons in *Escherichia coli*. *PLoS ONE, 10*(6), e0131928. https://doi.org/10.1371/journal.pone.0131928
