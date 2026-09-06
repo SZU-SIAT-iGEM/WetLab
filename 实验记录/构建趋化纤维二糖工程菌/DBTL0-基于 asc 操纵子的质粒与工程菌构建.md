@@ -47,11 +47,11 @@
 
 - 在 GibsonAssembly 页面插入所有片段后，点击产物页面，右上角选择重叠PCR引物，让SnapGene 自动设计同源臂
 
-![](assets/2026-09-06-01-14-12-image.png)
+<img width="1107" height="630" alt="image" src="https://github.com/user-attachments/assets/d23c76a2-bace-46ac-b447-4680bd59c602" />
 
 - 共生成两对同源臂，加长第一对正向链引物让重叠区域覆盖到 ascF 上游，同时加长第二对正向链引物让重叠区域覆盖到 ascF 下游
 
-![](assets/2026-09-06-01-14-39-image.png)
+<img width="1644" height="355" alt="image" src="https://github.com/user-attachments/assets/64f9eb97-a815-48ce-9fa7-46436ec3bdc0" />
 
 - 检查同源臂，质粒组装完成
 
@@ -67,7 +67,7 @@
 
 第四对引物：2483_F, 3920_R
 
-![](assets/2026-09-06-01-14-55-image.png)
+<img width="1637" height="713" alt="image" src="https://github.com/user-attachments/assets/874c8f01-6317-4f1e-b010-bd76d75520a2" />
 
 同理，设计好后，用 NCBI 的 Primer-blast 功能检查引物的各项指标是否符合要求。
 
@@ -226,17 +226,17 @@ PCR 结束后，用琼脂糖凝胶电泳验证产物中是否有目标片段。
 
 巢式 PCR 第一轮电泳结果：
 
-<img title="" src="assets/2026-09-06-01-15-40-image.png" alt="" width="261">
+<img width="1627" height="1220" alt="巢式第一轮" src="https://github.com/user-attachments/assets/8bf82c7c-3a9d-4fe7-aad6-8dd3ab6cff66" />
 
 第二轮 PCR：以第一轮 PCR 纯化产物为模板，使用内侧引物扩增基因编码区（CDS）。电泳结果显示两条目标条带均位于 1400–1500 bp 区间，条带清晰锐利，表明已成功获得 ascF（约 1460 bp）和 ascB（约 1420 bp）目的基因片段。
 
 巢式 PCR 第二轮产物的电泳结果：
 
-<img title="" src="assets/2026-09-06-01-16-10-image.png" alt="" width="261">
+<img width="1647" height="1235" alt="巢式第二轮" src="https://github.com/user-attachments/assets/c52481f2-0c16-441a-ab4d-2b59818e9f96" />
 
 ### 2. Touchdown PCR 悬挂短片段和同源臂产物的琼脂糖凝胶电泳
 
-<img src="assets/2026-09-06-01-16-43-image.png" title="" alt="" width="261">
+<img width="1381" height="1036" alt="ascFB同源臂" src="https://github.com/user-attachments/assets/226340d5-20e0-4bf4-b8dd-f8beebe09595" />
 
 以巢式第二轮 PCR 产物为模板，分别用带有启动子‑RBS 同源臂的引物扩增 Fragment 1（Promoter‑RBS‑ascF），以及带有 MidRBS‑Spacer 同源臂的引物扩增 Fragment 2（MidRBS‑ascB）。本轮 PCR 的预期产物为进行 Gibson Assembly 的两个片段，长度分别为 1532bp 和 1502bp，电泳结果显示，Fragment 1 和 Fragment 2 均在约 1500 bp 处均出现单一主带，条带强度高、无拖尾，与预期长度相符，说明同源臂已成功悬挂，两个片段可用于下一步纯化和 Gibson 组装。
 
@@ -248,7 +248,7 @@ PCR 结束后，用琼脂糖凝胶电泳验证产物中是否有目标片段。
 
 过夜培养后的平板状态：
 
-<img src="assets/2026-09-06-01-17-22-image.png" title="" alt="" width="521">
+<img width="3713" height="2476" alt="DH5a-asc" src="https://github.com/user-attachments/assets/f0f44318-3c57-4d0f-a322-f5b19ffcec12" />
 
 ### 4. DH5α 菌落 PCR 产物的琼脂糖凝胶电泳
 
@@ -260,13 +260,13 @@ PCR 结束后，用琼脂糖凝胶电泳验证产物中是否有目标片段。
 
 样品 1‑1、1‑2、2‑2 部分引物对无条带或条带较弱，可能为假阳性或质粒结构不完整。
 
-<img src="assets/2026-09-06-01-18-00-image.png" title="" alt="" width="513">
+<img width="2431" height="755" alt="asc菌p（1）" src="https://github.com/user-attachments/assets/2751c618-152c-4d69-876d-664d8d341ce0" />
 
-<img src="assets/2026-09-06-01-18-39-image.png" title="" alt="" width="513">
+<img width="2620" height="794" alt="asc菌p（2）" src="https://github.com/user-attachments/assets/8056fe12-f321-45b5-89f2-e9a6ba80ef6f" />
 
 对符合标准的 2‑1、3‑1、3‑2、4‑1 重新以测序引物进行二次 PCR 验证，条带再次确认正确后，将 2-1 和 3-2 两个样品送往测序公司。
 
-<img title="" src="assets/2026-09-06-01-19-35-image.png" alt="" width="513">
+<img width="3200" height="846" alt="asc测序" src="https://github.com/user-attachments/assets/aef4744e-f37c-436e-a07b-569704d3a71f" />
 
 根据测序公司反馈回的结果，两个样品测序均符合要求，说明质粒已成功转入对应样品的菌株中。
 
@@ -276,7 +276,7 @@ PCR 结束后，用琼脂糖凝胶电泳验证产物中是否有目标片段。
 
 过夜培养后的平板状态：
 
-<img src="assets/2026-09-06-01-20-25-image.png" title="" alt="" width="287">
+<img width="2487" height="2476" alt="MG1655-asc" src="https://github.com/user-attachments/assets/5c128218-9a58-486b-b870-4b64a0d51968" />
 
 ### 6. MG1655 菌落 PCR 产物的琼脂糖凝胶电泳
 
@@ -288,7 +288,7 @@ PCR 结束后，用琼脂糖凝胶电泳验证产物中是否有目标片段。
 
 工程菌四个克隆均在约 3000 bp 处出现明显的单一目的条带，与理论大小吻合，仅有一条条带亮度较弱；空载对照克隆在对应位置无任何条带。
 
-<img src="assets/2026-09-06-01-21-09-image.png" title="" alt="" width="273">
+<img width="1756" height="1317" alt="MG1655菌p" src="https://github.com/user-attachments/assets/52a58ae0-dcc8-4f9d-b54e-b4e347f13a2a" />
 
 该结果证实重组质粒已成功转入 MG1655，且插入片段完整未发生重组丢失。至此，工程菌株构建完成，可用于后续功能测试。
 
@@ -302,7 +302,7 @@ PCR 结束后，用琼脂糖凝胶电泳验证产物中是否有目标片段。
 
 为了评估这一风险，我们在完成质粒设计后使用 RBS Calculator 对两个基因的翻译起始效率进行了预测。结果表明：在同一个转录本中，ascF 起始密码子（位置 990）的预测表达量仅为 1613.14，而 ascB 起始密码子的预测表达量则高达 5574.81。AscF 的表达量仅为 AscB 的 29%，前者比后者低了 3.5 倍之多。
 
-![](assets/2026-09-06-01-22-13-image.png)
+<img width="2009" height="111" alt="fe165397b03d0a097f605faab87291ff" src="https://github.com/user-attachments/assets/ed9b70d4-0d8d-4228-ab8a-1ea8e6b7e7e2" />
 
 这一差异意味着两个基因共用同一个启动子，处于同一条 mRNA 上，使用完全相同的 RBS 序列（BBa_B0034），但仅仅因为 RBS 下游编码序列的前几十个碱基不同，即 mRNA 局部二级结构的差异，翻译起始效率就可能相差数倍。ascB 的 RBS 可能被其下游序列形成的茎环结构部分遮蔽，导致核糖体 30S 亚基的结合效率降低。
 
