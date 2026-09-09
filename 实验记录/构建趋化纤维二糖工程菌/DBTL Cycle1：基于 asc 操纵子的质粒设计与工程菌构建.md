@@ -61,13 +61,19 @@
 
 巢式第一轮 PCR：以 MG1655 基因组 DNA 为模板，使用外侧引物扩增包含基因上下游各约 500 bp 侧翼序列的长片段。电泳结果显示，ascF 和 ascB 均在约 2500 bp 处出现单一、明亮的特异性条带，与预期大小一致，无非特异性扩增或引物二聚体，说明第一轮扩增成功，模板质量良好。
 
+<img width="1627" height="1220" alt="巢式第一轮" src="https://github.com/user-attachments/assets/5ffc06a7-61af-4c7d-9751-49daadc087df" />
+
 图1-1：巢式PCR第一轮电泳结果
 
 巢式第二轮 PCR：以第一轮 PCR 纯化产物为模板，使用内侧引物扩增基因编码区（CDS）。电泳结果显示两条目标条带均位于 1400–1500 bp 区间，条带清晰锐利，表明已成功获得 ascF（约 1460 bp）和 ascB（约 1420 bp）目的基因片段。
 
+<img width="1647" height="1235" alt="巢式第二轮" src="https://github.com/user-attachments/assets/bed52c3e-8873-402d-91d5-f0c7933ae5cf" />
+
 图1-2：巢式PCR第二轮电泳结果
 
 Touchdown PCR：本轮 PCR 的预期产物为进行 Gibson Assembly 的两个片段，长度分别为 1532bp 和 1502bp，电泳结果显示，Fragment 1 和 Fragment 2 均在约 1500 bp 处均出现单一主带，条带强度高、无拖尾，与预期长度相符，说明同源臂已成功悬挂，两个片段可用于下一步纯化和 Gibson 组装。
+
+<img width="1381" height="1036" alt="ascFB同源臂" src="https://github.com/user-attachments/assets/797b63f6-4bf2-4e1c-b91a-b701b5ddf147" />
 
 图1-3：Touchdown PCR产物电泳结果
 
@@ -91,17 +97,25 @@ Touchdown PCR：本轮 PCR 的预期产物为进行 Gibson Assembly 的两个片
 
 过夜培养后，工程菌平板长出单菌落，而空载对照也长出菌落，表明氨苄抗性筛选有效。梯度稀释平板上的菌落密度相较于未稀释平板来说更小。
 
+<img width="3713" height="2476" alt="DH5a-asc" src="https://github.com/user-attachments/assets/0347e002-aefe-4b67-addf-e9e5a3595c1c" />
+
 图1-4：DH5α平板筛选结果
 
 从工程菌平板上挑取 7 个单克隆（编号 1‑1 ~ 4‑2，编号 1-1 代表第一个平板第一个单菌落），使用四对测序引物进行菌落 PCR。
 
 电泳结果显示：样品 2‑1、3‑1、3‑2、4‑1 在四对引物下均扩增出清晰、大小正确的目的条带，且无额外非特异条带；样品 1‑1、1‑2、2‑2 部分引物对无条带或条带较弱，可能为假阳性或质粒结构不完整。
 
+<img width="2431" height="755" alt="asc菌p（1）" src="https://github.com/user-attachments/assets/8ec17aef-94b5-4b90-adbd-7c5bebc89164" />
+
 图1-5：DH5α菌落PCR电泳结果（一）
+
+<img width="2620" height="794" alt="asc菌p（2）" src="https://github.com/user-attachments/assets/562801b5-e7e3-41e3-a50a-b0f42d4d95a4" />
 
 图1-6：DH5α菌落PCR电泳结果（二）
 
 对符合标准的 2‑1、3‑1、3‑2、4‑1 重新以测序引物进行二次 PCR 验证，条带再次确认正确后，将 2-1 和 3-2 两个样品送往测序公司。
+
+<img width="3200" height="846" alt="asc测序" src="https://github.com/user-attachments/assets/a8278a34-a598-4609-99bc-3b47d4a7ada6" />
 
 图1-7：DH5α阳性克隆二次验证电泳结果
 
@@ -127,11 +141,15 @@ Touchdown PCR：本轮 PCR 的预期产物为进行 Gibson Assembly 的两个片
 
 将复苏后的感受态细胞涂布氨苄平板后，工程菌和空载对照均生长出适量单菌落，稀释平板菌落分布均匀，未稀释平板菌落密集但可辨认。
 
+<img width="2487" height="2476" alt="MG1655-asc" src="https://github.com/user-attachments/assets/ea58e4be-2ce5-4b3c-b3df-69e8d1157d6f" />
+
 图1-8：MG1655平板筛选结果
 
 分别从工程菌和空载平板上各挑取 2 个单克隆，使用一对跨整个表达盒的通用引物进行菌落 PCR。该通用引物能够扩增覆盖从启动子到终止子的全长插入片段，预期约 3000 bp。
 
 电泳结果显示：工程菌四个克隆均在约 3000 bp 处出现明显的单一目的条带，与理论大小吻合，仅有一条条带亮度较弱；空载对照克隆在对应位置无任何条带。
+
+<img width="1756" height="1317" alt="MG1655菌p" src="https://github.com/user-attachments/assets/52abd87c-5b2b-47ca-8cd0-b4b77ed514ad" />
 
 图1-9：MG1655菌落PCR电泳结果
 
