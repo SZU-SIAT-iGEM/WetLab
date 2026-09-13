@@ -29,6 +29,9 @@
 ## Test｜测试
 
 过夜培养后，所有平板上均未长出菌落，也未观察到 TTC 发生氧化还原反应而呈现显色现象。
+<img width="4032" height="3024" alt="软琼脂1" src="https://github.com/user-attachments/assets/315b2c46-9350-4afd-8d8f-8b2d50e67cb6" />
+<img width="4032" height="3024" alt="软琼脂2" src="https://github.com/user-attachments/assets/0f81c466-3165-4c90-8c1f-86444b0b6068" />
+<img width="4032" height="3024" alt="软琼脂3" src="https://github.com/user-attachments/assets/20c8c1f7-dc84-44f7-ac4f-efce414e70d9" />
 
 ## Learn｜学习
 
@@ -54,16 +57,18 @@
 
 1. 验证 TTC 是否分解：取出一块琼脂板，并在上面滴加维生素 C 溶液；
 2. 验证 TTC 是否会对菌落产生影响：将 TTC 直接滴入菌液中培养；
-3. 验证是否是离心机转速过大所致：调低转速，重新培养菌液并重新进行实验；
-4. 验证接种浓度是否偏低：调高菌液浓度，其余操作与第 3 项相同；
-5. 验证菌落是否无法长时间在平板上生长：在第 3、4 项实验进行的同时进行观察。
+4. 验证是否是离心机转速过大所致：调低转速，重新培养菌液并重新进行实验；
+5. 验证接种浓度是否偏低：调高菌液浓度，其余操作与第 3 项相同；
+6. 验证菌落是否无法长时间在平板上生长：在第 3、4 项实验进行的同时进行观察。
 
 ## Test｜测试
 
 1. 琼脂板变红，说明 TTC 并未完全分解；
 2. 菌液变红，说明 TTC 的毒性不会对菌落产生显著影响；
-3. 过夜培养后，平板上没有菌落生长；
-4. 过夜培养后，平板上没有菌落生长。
+<img width="1280" height="1707" alt="软琼脂4" src="https://github.com/user-attachments/assets/0d05df16-8f5f-477a-a31e-428443be2a1f" />
+
+4. 过夜培养后，平板上没有菌落生长；
+5. 过夜培养后，平板上没有菌落生长。
 
 ## Learn｜学习
 
@@ -83,9 +88,8 @@
 
 ## Build｜实施
 
-我们重新设计了三种琼脂平板：
+我们重新设计了两种琼脂平板，同时设置了浓度梯度：
 
-- 不含营养的空白 M9 对照板；
 - 以纤维二糖为唯一营养的实验组 M9 平板；
 - 以葡萄糖为唯一营养的阳性对照 M9 平板。
 
@@ -96,6 +100,8 @@
 ## Test｜测试
 
 仅在葡萄糖平板上观察到菌落生长环，分别来自 `ascBF` 工程菌与空载菌；其余平板上均没有菌落生长。
+<img width="2486" height="1649" alt="软琼脂5" src="https://github.com/user-attachments/assets/5ba0a392-c3e8-421c-8eba-6a27feca9ffe" />
+<img width="2777" height="1815" alt="软琼脂6" src="https://github.com/user-attachments/assets/fceaf142-51fe-4b17-8553-08484262dae8" />
 
 ## Learn｜学习
 
@@ -151,6 +157,7 @@
 ## Test｜测试
 
 本轮完成了低营养组实验，无营养组尚未开展。结果如下：
+<img width="3200" height="1708" alt="纤维二糖趋化性验证" src="https://github.com/user-attachments/assets/f5ed38f8-6b29-4704-b78d-2187d44bb8c4" />
 
 | 平板编号 | 塞子  | 菌株    | 反应                           |
 | ---- | --- | ----- | ---------------------------- |
