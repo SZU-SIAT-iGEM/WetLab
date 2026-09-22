@@ -68,6 +68,8 @@
 
 这一结果与 DBTL 1 中观察到的现象一致。
 
+<img width="2476" height="2476" alt="SD链霉素工程菌" src="https://github.com/user-attachments/assets/3cadb4e6-14e9-4ba4-bad1-6bf3cfe65e27" />
+
 ### Learn
 
 链霉素平板上工程菌能够生长，只能说明，在链霉素筛选条件下，工程菌组能够形成 colonies，但并不能证明这些 colonies 一定是携带目标质粒的 transformants。
@@ -110,6 +112,10 @@
 
 也就是说，WT 没有被壮观霉素有效抑制。
 
+<img width="2476" height="2476" alt="SD壮观霉素工程菌" src="https://github.com/user-attachments/assets/81025138-f89b-450c-9bfc-56c532f44dc2" />
+
+<img width="2476" height="1270" alt="SD壮观霉素WT" src="https://github.com/user-attachments/assets/1752c108-7c4f-4055-9fc2-412f412968ca" />
+
 ### Learn
 
 这一结果与我们的预期明显不符。如果 spectinomycin selection 工作正常，那么，工程菌应当生长，WT 应当无法生长，但实际结果是 WT 同样能够生长。
@@ -147,6 +153,8 @@
 结果显示，链霉素 + 壮观霉素双抗平板上，工程菌能够形成 colonies；同时，MG1655 WT 也能够在链霉素 + 壮观霉素双抗平板上形成 colonies。
 
 也就是说，即使联合使用两种 antibiotic，WT 仍然没有被抑制。
+
+<img width="2476" height="1210" alt="SD双抗WT" src="https://github.com/user-attachments/assets/9d4f1770-6924-4724-9719-8c8c22138b7c" />
 
 ### Learn
 
