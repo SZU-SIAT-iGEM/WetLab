@@ -120,7 +120,7 @@
 
 <img width="2476" height="1270" alt="SD壮观霉素WT" src="https://github.com/user-attachments/assets/1752c108-7c4f-4055-9fc2-412f412968ca" />
 
-图2.2-2 涂布接种野生型菌株的壮观霉素
+图2.2-2 涂布接种野生型菌株的壮观霉素平板
 
 ### Learn
 
@@ -162,7 +162,11 @@
 
 <img width="2476" height="2476" alt="SD双抗工程菌" src="https://github.com/user-attachments/assets/b2ab51cc-a46e-4bb1-bba5-175cdebf3b72" />
 
+图2.3-1 涂布接种工程菌的链霉素+壮观霉素平板
+
 <img width="2476" height="1210" alt="SD双抗WT" src="https://github.com/user-attachments/assets/9d4f1770-6924-4724-9719-8c8c22138b7c" />
+
+图2.3-2 涂布接种野生型菌株的链霉素+壮观霉素平板
 
 ### Learn
 
