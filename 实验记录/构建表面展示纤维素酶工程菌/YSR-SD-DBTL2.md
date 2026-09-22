@@ -10,7 +10,7 @@
 
 这一轮我们同时比较不同 antibiotic condition 下：
 
-- 工程菌，即尝试转入 pCDF-based SmR plasmid 的 MG1655；
+- 工程菌，即尝试转入 pCDF-based SmR plasmid 的 DH5α 和 MG1655；
 
 - 野生型 DH5α 和 MG1655 WT，未转入任何 plasmid。
 
@@ -32,7 +32,7 @@
 
 我们重新制备 MG1655 competent cells，并进行 pCDF-based SmR plasmid transformation。
 
-同时保留未经任何 plasmid transformation 的 MG1655 WT。
+同时保留未经任何 plasmid transformation 的 DH5α 和 MG1655 WT。
 
 随后将各组细胞分别涂布于以下平板：
 
@@ -70,6 +70,8 @@
 
 <img width="2476" height="2476" alt="SD链霉素工程菌" src="https://github.com/user-attachments/assets/3cadb4e6-14e9-4ba4-bad1-6bf3cfe65e27" />
 
+图2.1-1 划线接种工程菌的链霉素平板
+
 ### Learn
 
 链霉素平板上工程菌能够生长，只能说明，在链霉素筛选条件下，工程菌组能够形成 colonies，但并不能证明这些 colonies 一定是携带目标质粒的 transformants。
@@ -102,19 +104,23 @@
 
 - 工程菌
 
-- 未经 transformation 的 MG1655 WT
+- 未经 transformation 的 DH5α 和 MG1655 WT
 
 分别涂布于新的 spectinomycin-containing plates，所有组在 37℃ 培养条件下过夜培养。
 
 ### Test
 
-结果显示，壮观霉素平板上，工程菌能够形成 colonies；同时，MG1655 WT 也能够在壮观霉素平板上形成 colonies。
+结果显示，壮观霉素平板上，工程菌能够形成 colonies；同时，DH5α 和 MG1655 WT 也能够在壮观霉素平板上形成 colonies。
 
 也就是说，WT 没有被壮观霉素有效抑制。
 
 <img width="2476" height="2476" alt="SD壮观霉素工程菌" src="https://github.com/user-attachments/assets/81025138-f89b-450c-9bfc-56c532f44dc2" />
 
+图2.2-1 涂布接种工程菌的壮观霉素平板
+
 <img width="2476" height="1270" alt="SD壮观霉素WT" src="https://github.com/user-attachments/assets/1752c108-7c4f-4055-9fc2-412f412968ca" />
+
+图2.2-2 涂布接种野生型菌株的壮观霉素
 
 ### Learn
 
@@ -136,7 +142,7 @@
 
 - 工程菌
 
-- 未经 transformation 的 MG1655 WT
+- 未经 transformation 的 DH5α 和 MG1655 WT
 
 如果双药组合能够抑制 WT，而工程菌仍然生长，则说明双药 selection 可能比单药更可靠。
 
@@ -146,13 +152,15 @@
 
 我们重新制备链霉素 + 壮观霉素双药平板。
 
-随后将工程菌和 MG1655 WT 分别涂布于双药平板上，所有组在 37℃ 培养条件下过夜培养。
+随后将工程菌、DH5α 和 MG1655 WT 分别涂布于双药平板上，所有组在 37℃ 培养条件下过夜培养。
 
 ### Test
 
-结果显示，链霉素 + 壮观霉素双抗平板上，工程菌能够形成 colonies；同时，MG1655 WT 也能够在链霉素 + 壮观霉素双抗平板上形成 colonies。
+结果显示，链霉素 + 壮观霉素双抗平板上，工程菌能够形成 colonies；同时，DH5α 和 MG1655 WT也能够在链霉素 + 壮观霉素双抗平板上形成 colonies。
 
 也就是说，即使联合使用两种 antibiotic，WT 仍然没有被抑制。
+
+<img width="2476" height="2476" alt="SD双抗工程菌" src="https://github.com/user-attachments/assets/b2ab51cc-a46e-4bb1-bba5-175cdebf3b72" />
 
 <img width="2476" height="1210" alt="SD双抗WT" src="https://github.com/user-attachments/assets/9d4f1770-6924-4724-9719-8c8c22138b7c" />
 
