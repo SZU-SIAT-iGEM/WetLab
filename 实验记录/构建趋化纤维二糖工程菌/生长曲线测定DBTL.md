@@ -23,10 +23,10 @@
 各菌株先培养至对数期，离心收集菌体，用无碳源M9洗涤2-3次以去除残留碳源，重悬并调至OD600=0.1接种。接种的同时进行梯度稀释涂板，作为t=0的活菌基数。接种后置于37°C恒温摇床震荡培养，每12h取样一次，用光度计测定OD600，记录直到od值进入稳定期。每个OD采样点同步取样。
 ### Test
 
-<img width="3216" height="2462" alt="Graph1" src="https://github.com/user-attachments/assets/870b8dc8-a58e-45fd-8c0c-e6c2bb0d2484" />
-<img width="3216" height="2462" alt="Graph2" src="https://github.com/user-attachments/assets/719590a2-dd99-4cce-9fdd-7420e08202f6" />
-<img width="3216" height="2462" alt="Graph3" src="https://github.com/user-attachments/assets/45ef61ca-31de-4649-b51b-e4656279b771" />
 
+<img width="3216" height="2462" alt="Graph1" src="https://github.com/user-attachments/assets/543ab89d-c3f1-4e58-999a-60fabba9cfa1" />
+<img width="3216" height="2462" alt="Graph2" src="https://github.com/user-attachments/assets/561046ec-c605-40af-85f9-38c754a43902" />
+<img width="3216" height="2462" alt="Graph3" src="https://github.com/user-attachments/assets/2d565e94-e48b-4d68-9090-3589ca56b979" />
 
 实验发现，工程菌并未表现出优于空载对照（EV）的纤维二糖代谢能力；相反，由于质粒额外搭载了 ascB、ascF 两个蛋白的表达负担，工程菌在纤维二糖条件下的生长略弱于 EV。阳性对照（葡萄糖）生长正常，说明菌株活力与质粒本身无问题；空白对照 OD 无变化，排除污染。
 
