@@ -23,8 +23,8 @@
 各菌株先培养至对数期，离心收集菌体，用无碳源M9洗涤2-3次以去除残留碳源，重悬并调至OD600=0.1接种。接种的同时进行梯度稀释涂板，作为t=0的活菌基数。接种后置于37°C恒温摇床震荡培养，每12h取样一次，用光度计测定OD600，记录直到od值进入稳定期。每个OD采样点同步取样。
 ### Test
 
-<img width="3216" height="2462" alt="Graph2" src="https://github.com/user-attachments/assets/f20f8cad-7df7-4d92-b003-bcb6e97aa222" />
 <img width="3216" height="2462" alt="Graph1" src="https://github.com/user-attachments/assets/870b8dc8-a58e-45fd-8c0c-e6c2bb0d2484" />
+<img width="3216" height="2462" alt="Graph2" src="https://github.com/user-attachments/assets/719590a2-dd99-4cce-9fdd-7420e08202f6" />
 <img width="3216" height="2462" alt="Graph3" src="https://github.com/user-attachments/assets/45ef61ca-31de-4649-b51b-e4656279b771" />
 
 
